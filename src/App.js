@@ -38,7 +38,7 @@ console.warn(store)
     <button onClick={handleIncreament}>Increament</button>
     <button onClick={handleDecreament}>Decreament</button>
     <input type={'number'} onChange={handleChangeCount}></input>
-    <button onClick={ handleIncreamentByNumber}>INCREAMENT BY {count}</button>
+    <button onClick={ handleIncreamentByNumber}>INCREAMENT BY{count}</button>
     </>
   )
   }  

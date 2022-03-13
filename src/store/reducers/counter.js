@@ -5,7 +5,7 @@ switch(action.type){
          
          return {
              ...state,
-             counter:state.counter+1
+            counter:state.counter+1
          }
    case  'DECREAMENT_COUNTER':    
         
